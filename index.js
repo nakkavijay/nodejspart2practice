@@ -1,0 +1,4 @@
+const path = require('path');
+
+const filepath =path.join('users', "ravi", "notes.txt");
+console.log(filepath);
